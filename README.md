@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/tindog-website.git
+   git clone https://github.com/NehaMaurya2311/Tindog.git
    ```
 
 2. Navigate to the project directory:
@@ -50,10 +50,6 @@ Feel free to use this codebase as a template for your own projects. You can modi
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-
-Special thanks to [OpenAI](https://openai.com/) for providing helpful suggestions and guidance.
 
 ---
 
-Make sure to replace placeholders like `yourusername` with your actual GitHub username, and customize the content as needed. You can also include more details or sections if necessary.
